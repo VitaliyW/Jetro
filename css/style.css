@@ -3,6 +3,9 @@ html {
 }
 
 body {
-  font-size: 15px;
-  color: #000;
+  background-color: #c9c9c9;
+}
+
+header {
+  background-color: red;
 }
