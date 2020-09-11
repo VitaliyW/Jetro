@@ -17,3 +17,10 @@ header {
 .about {
   background-color: orange;
 }
+
+.footer {
+	background-color: grey;
+	color: #000;
+	font-size: 15px;
+}
+
