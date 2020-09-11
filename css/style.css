@@ -13,3 +13,7 @@ header {
 .main {
   background-color: #000;
 }
+
+.about {
+  background-color: orange;
+}
